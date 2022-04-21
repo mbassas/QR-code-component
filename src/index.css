@@ -2,7 +2,7 @@
    box-sizing: border-box;
 }
 
-.body {
+body {
     background: hsl(220, 15%, 55%);
     height: 100vh;
     margin: 0;
