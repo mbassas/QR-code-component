@@ -1,7 +1,12 @@
+* {
+   box-sizing: border-box;
+}
+
 .body {
     background: hsl(220, 15%, 55%);
-    min-height: 100vh;
+    height: 100vh;
     margin: 0;
+    padding: 25px 0;
 }
 .container {
     background: hsl(212, 45%, 89%);
