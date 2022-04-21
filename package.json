@@ -1,0 +1,12 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx serve src"
+  },
+  "author": "Montserrat Bassas Cordoba",
+  "license": "ISC"
+}

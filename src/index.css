@@ -1,0 +1,41 @@
+.body {
+    background: hsl(220, 15%, 55%);
+    min-height: 100vh;
+    margin: 0;
+}
+.container {
+    background: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+
+.card {
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    margin: 155px;
+    width: 250px;
+    padding: 15px;
+}
+
+.img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.text-wrapper {
+    padding: 0 15px;
+}
+.header1 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+}
+
+.paragraph {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color:hsl(220, 15%, 55%);
+}
